@@ -1,19 +1,19 @@
 {
     "secrets": {
         "mongo": {
-            "uri": "",
-            "db": "del"
+            "uri": "mongodb://uumvokdrzqlkzjzoevks:57EHyeQgoHiY38ydtj8h@bavsmjsnye0kbee-mongodb.services.clever-cloud.com:27017/bavsmjsnye0kbee",
+            "db": "bavsmjsnye0kbee"
         },
         "redis": {
-            "port": 6379,
-            "host": "127.0.0.1",
+            "port": 14991,
+            "host": "redis-14991.c61.us-east-1-3.ec2.cloud.redislabs.com",
             "db": 0,
-            "passwd": ""
+            "passwd": "Ctp1ufssG7WwYXlGvk2brL5wObV9zLSe"
         },
         "discord": {
-            "id": "",
-            "token": "",
-            "secret": ""
+            "id": "721593796319641621",
+            "token": "NzIxNTkzNzk2MzE5NjQxNjIx.XuYGXA.0LbQNFRkvshAbtMP-XaQRHKS-mU",
+            "secret": "IIz-iY5_N6wxaix0CQvtQJbk1B55Rlvc"
         },
         "datadog": "",
         "cookie": ""
@@ -57,7 +57,7 @@
             "agressive": true
         },
         "authScopes": ["identify", "guilds.join"],
-        "url": "https://dev.discordextremelist.xyz",
+        "url": "https://ahead-supreme-switch.glitch.me",
         "callback": "/auth/login/callback",
         "gaID": "UA-165711322-1"
     },
